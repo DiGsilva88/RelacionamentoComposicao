@@ -7,7 +7,8 @@
             //Criar o funcionario
             Funcionario f1 = new Funcionario("Carlos");
 
-            //Adicionar dependentes (cridos dentro da classe funcionario)
+            //Adicionar dependentes (criados dentro da classe funcionario)
+
             f1.AdicionarDependente("Ana", 10);
             f1.AdicionarDependente("Pedro", 8);
 

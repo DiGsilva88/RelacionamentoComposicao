@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RelacionamentoComposicao
 {
-    internal class Dependente
+    internal class Dependente  ///simboliza os filhos =dependente
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
